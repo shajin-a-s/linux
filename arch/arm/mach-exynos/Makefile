@@ -2,7 +2,7 @@
 #
 # Copyright (c) 2010-2011 Samsung Electronics Co., Ltd.
 #		http://www.samsung.com/
-#
+# Hi
 # Licensed under GPLv2
 
 ifneq ($(CONFIG_CMA),y)
